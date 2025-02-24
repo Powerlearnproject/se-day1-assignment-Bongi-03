@@ -75,6 +75,6 @@ Improved Prompt:
 "Explain how artificial intelligence is used in healthcare to improve diagnosis and treatment."
 
 Why is the Improved Prompt More Effective?
-More Specific – Instead of asking about "technology" in general, it focuses on AI in healthcare.
-Clearer Purpose – It directs the AI to discuss diagnosis and treatment, making the response more relevant.
-Concise and Focused – It avoids broad or unclear wording, leading to a more precise and useful answer.
+ -More Specific: Instead of asking about "technology" in general, it focuses on AI in healthcare.
+ -Clearer Purpose: It directs the AI to discuss diagnosis and treatment, making the response more relevant.
+ -Concise and Focused: It avoids broad or unclear wording, leading to a more precise and useful answer.
